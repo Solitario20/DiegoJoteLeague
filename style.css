@@ -1,0 +1,11 @@
+.navbar {
+  background: linear-gradient(135deg, #ff4d4d 0%, #d90429 50%, #7a0010 100%);
+
+  backdrop-filter: blur(10px);
+}
+.table {
+  margin-top: 99px;
+}
+body {
+  background: linear-gradient(135deg, #ff4d4d 0%, #d90429 50%, #7a0010 100%);
+}
